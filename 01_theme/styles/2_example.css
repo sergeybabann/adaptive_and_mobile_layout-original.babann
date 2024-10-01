@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.container {
+  width: 200px;
+  height: 30%;
+  border: 4px solid green;
+}
+
+.box {
+  height: 50%;
+  width: 50%;
+  border: 1px solid black;
+}
